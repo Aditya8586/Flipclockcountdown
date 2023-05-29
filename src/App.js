@@ -7,7 +7,7 @@ import FlipClockCountdown from '@leenguyen/react-flip-clock-countdown';
 const App = () => {
   return <section className='page'>
   <div className="overlay"></div>
-  <video src={VideoBg} autoPlay Loop muted></video>
+  <video src={VideoBg} autoPlay loop muted></video>
 <div className="page__content">
   <h1>Launching soon</h1>
   <h3> Leave your email and we'll let you know once the site goes live.</h3>
